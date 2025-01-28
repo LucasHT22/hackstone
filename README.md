@@ -17,4 +17,5 @@ In this game, every card has a distinct personality and powers, brought to life 
 git clone git@github.com:hackclub/hackstone.git
 cd hackstone
 ```
+> If it does't work, run `git lfs pull`
 4.	Open the project in Godot.
